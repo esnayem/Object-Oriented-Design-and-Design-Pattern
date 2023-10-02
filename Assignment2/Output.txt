@@ -1,0 +1,91 @@
+__________Wellcome to Pet Health Center________ 
+
+1 => Add new pet
+2 => Show all the pet
+3 => Show the Pet doctor list / vatenarians     
+4 => Arrange an appoinment
+
+Take an action : 2
+The pets list
+Type : Dog, id : 196, Name : Papi, age : 2, Weight : 23.5, Color : White, Breed : Affengriffon
+The Doghas no desease
+The Owner id = 4996, Owner Name is : Hridoy, Address: Norail, Contract number : 01711111111
+
+Type : Cat, id : 197, Name : Black Don, age : 1, Weight : 2.3, Color : Black, Breed : Persian
+The Cathas no desease
+The Owner id = 4997, Owner Name is : Ahnaf, Address: Mymanshing, Contract number : 0172222222
+
+Type : Bird, id : 198, Name : Parot, age : 2, Weight : 0.5, Color : Green and Red, Breed : Abyssinian Lovebird
+The Birdhas no desease
+The Owner id = 4998, Owner Name is : Toufiq, Address: Dhaka, Contract number : 0173333333
+
+Type : Rabit, id : 199, Name : Miki, age : 1, Weight : 1.0, Color : White, Breed : Chinchilla
+The Rabithas no desease
+The Owner id = 4999, Owner Name is : Mamun, Address: Narainganj, Contract number : 0174444444
+
+Take an action : 3
+Pet doctors list : 
+Name: Amin, Doctor ID: d145, Age: 28, Specialization: Dog Specialist, Address: null, Phone: 01733333333, Mail: amin@gmail.com
+
+Name: Bee, Doctor ID: d146, Age: 30, Specialization: Cat Specialist, Address: null, Phone: 01744444444, Mail: bee@gmail.com
+
+Name: Cob, Doctor ID: d147, Age: 32, Specialization: Bird Specialist, Address: null, Phone: 0175555555, Mail: cob@gmail.com
+
+Name: Mustofa, Doctor ID: d150, Age: 35, Specialization: Rabit Specialist, Address: null, Phone: 01766666666, Mail: mustofa@gmail.com       
+
+Take an action : 1
+Owner name = Taj
+Address = Dinajpur
+Contract Number = 0179999999
+Take the animal type : Bird
+Animal Name = Mithu
+Take age = 1
+Animal weight = .7
+Animal color is = Green
+Animal Breed = Tiyadldd 
+
+Added a new Animal here is the information
+Type : Bird id : 201 Name : Mithu age : 1 Weight : 0.7 Color : Green Breed : Tiyadldd
+
+Take an action : 4
+Before appoinment See the doctor list (=> 3)
+Enter the doctor id = d147
+Enter the pet id = 198
+
+Manage an appoinment with >>>>
+
+The Owner and Pet information is
+The Owner id = 4998, Owner Name is : Toufiq, Address: Dhaka, Contract number : 0173333333
+Type : Bird, id : 198, Name : Parot, age : 2, Weight : 0.5, Color : Green and Red, Breed : Abyssinian Lovebird
+The Birdhas no desease
+
+The Doctor is
+Name: Cob, Doctor ID: d147, Age: 32, Specialization: Bird Specialist, Address: null, Phone: 0175555555, Mail: cob@gmail.com
+
+Update the info
+The Owner id = 4998, Owner Name is : Toufiq, Address: Dhaka, Contract number : 0173333333
+Type : Bird, id : 198, Name : Parot, age : 2, Weight : 0.5, Color : Green and Red, Breed : Abyssinian Lovebird
+This Bird has : Desease, desease type : spacial desease, Last Checkup Date : 12/09/2023
+
+
+Take an action : 2
+The pets list
+Type : Dog, id : 196, Name : Papi, age : 2, Weight : 23.5, Color : White, Breed : Affengriffon
+The Doghas no desease
+The Owner id = 4996, Owner Name is : Hridoy, Address: Norail, Contract number : 01711111111
+
+Type : Cat, id : 197, Name : Black Don, age : 1, Weight : 2.3, Color : Black, Breed : Persian
+The Cathas no desease
+The Owner id = 4997, Owner Name is : Ahnaf, Address: Mymanshing, Contract number : 0172222222
+
+Type : Bird, id : 198, Name : Parot, age : 2, Weight : 0.5, Color : Green and Red, Breed : Abyssinian Lovebird
+This Bird has : Desease, desease type : spacial desease, Last Checkup Date : 12/09/2023
+The Owner id = 4998, Owner Name is : Toufiq, Address: Dhaka, Contract number : 0173333333
+
+Type : Rabit, id : 199, Name : Miki, age : 1, Weight : 1.0, Color : White, Breed : Chinchilla
+The Rabithas no desease
+The Owner id = 4999, Owner Name is : Mamun, Address: Narainganj, Contract number : 0174444444
+
+Type : Bird, id : 201, Name : Mithu, age : 1, Weight : 0.7, Color : Green, Breed : Tiyadldd
+The Birdhas no desease
+The Owner id = 5001, Owner Name is : Taj, Address: Dinajpur, Contract number : 0179999999
