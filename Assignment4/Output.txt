@@ -1,0 +1,17 @@
+// Output formate 
+
+School: Shekh Kamal High School
+Departments:
+Department: Mathematics Department        
+Courses Offered:
+Course: MATH101 - Mathematics
+Employee ID: T001, Teacher Name: Ms. Smith
+Enrolled Students:
+Student ID: 101, Name: Hridoy
+Student ID: 102, Name: Mamun
+Department: Physics Department
+Courses Offered:
+Course: PHYS101 - Physics
+Employee ID: T002, Teacher Name: Mr. Johnson
+Enrolled Students:
+Student ID: 101, Name: Hridoy
