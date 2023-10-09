@@ -1,0 +1,9 @@
+Building: My House
+Floor: First Floor
+Room: Living Room
+Wall: North Wall
+Room: Kitchen
+Wall: South Wall
+Floor: Second Floor
+Total Area: 180.0 sq. ft
+Total Cost: $860.0
